@@ -1,5 +1,3 @@
-my first readme
-Ă^c
-root@36240caecbf4:/alx-pre_cou
+another readme for 0x01.git 
 
 README update from github.com
